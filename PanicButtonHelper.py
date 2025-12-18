@@ -2,7 +2,7 @@ import serial
 import time
 from pynput.keyboard import Controller, Key, Listener
 
-ser = serial.Serial('COM3', 9600, timeout=0.1)
+ser = serial.Serial('COM3', 9600, timeout=0.1) # change the COM port accordingly
 
 kb = Controller()
 running = True
@@ -32,3 +32,4 @@ while running:
         break
 
 listener.stop()
+
