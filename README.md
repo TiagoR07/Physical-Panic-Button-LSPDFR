@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TiagoR07/Physical-Panic-Button-LSPDFR/main/Icon.png" alt="Physical Panic Button icon" width="400">
+  <img src="https://raw.githubusercontent.com/TiagoR07/Physical-Panic-Button-LSPDFR/main/Icon.png" alt="Physical Panic Button icon" width="300">
 </p>
 
 # Physical Panic Button for LSPDFR
