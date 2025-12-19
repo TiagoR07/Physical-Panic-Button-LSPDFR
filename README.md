@@ -1,4 +1,6 @@
-![App Icon](https://raw.githubusercontent.com/TiagoR07/Physical-Panic-Button-LSPDFR/main/Icon.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TiagoR07/Physical-Panic-Button-LSPDFR/main/Icon.png" alt="Physical Panic Button icon" width="200">
+</p>
 
 # Physical Panic Button for LSPDFR
 
