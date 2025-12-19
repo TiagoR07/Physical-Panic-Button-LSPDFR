@@ -1,3 +1,5 @@
+![App Icon](https://raw.githubusercontent.com/TiagoR07/Physical-Panic-Button-LSPDFR/main/Icon.png)
+
 # Physical Panic Button for LSPDFR
 
 A physical panic button integration for LSPDFR using Arduino and Python.  
